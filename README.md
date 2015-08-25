@@ -4,14 +4,14 @@
   - Open de `Terminal` applicatie.
   - Gebruik het commando `cd` om te navigeren naar jouw `.json`file.
   - Voer het commando `json-server file.json --watch` uit.
-2. De JSON server draait steeds op **http://localhost:3000**.
+2. De JSON server draait steeds op: **http://localhost:3000**
 
 ## Opgaves
 1. Maak een nieuw project aan voor deze oefening.
 2. Maak een `.json` file aan en vul deze met enkele objecten. Aan jou de keuze ;-) Plaats de file in de folder **project_naam/project_naam**.
 3. Configureer Cocoapods:
   - Open de `Terminal` applicatie.
-  - Gebruik het commando `cd` om te navigeren naar jouw project. Zorg ervoor dat je in de folder **project_naam/project_naam** zit.
+  - Gebruik het commando `cd` om te navigeren naar jouw project. Zorg ervoor dat je in de folder **project_naam** zit, op het niveau van het Xcode project (dit is het bestand met de extensie `.xcodeproj`).
   - Voer het commando `pod init` uit. Dit commando maakt voor jou de Podfile aan.
   - Open de Podfile en voeg de pod `AFNetworking` toe. Gebruik de slides indien nodig.
   - Voer het commando `pod install` uit.
