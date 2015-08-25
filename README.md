@@ -4,6 +4,7 @@
   - Open de `Terminal` applicatie.
   - Gebruik het commando `cd` om te navigeren naar jouw `.json`file.
   - Voer het commando `json-server file.json --watch` uit.
+2. De JSON server draait steeds op **http://localhost:3000**.
 
 ## Opgaves
 1. Maak een nieuw project aan voor deze oefening.
