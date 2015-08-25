@@ -1,6 +1,9 @@
 # Oefening-Cocoapods-0
 ## Tips
-No tips so far -_-
+1. Zorg ervoor dat je lokale server runt:
+  - Open de `Terminal` applicatie.
+  - Gebruik het commando `cd` om te navigeren naar jouw `.json`file.
+  - Voer het commando `json-server file.json --watch` uit.
 
 ## Opgaves
 1. Maak een nieuw project aan voor deze oefening.
