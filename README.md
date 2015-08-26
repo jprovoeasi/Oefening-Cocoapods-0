@@ -28,3 +28,11 @@
   - Het verwittigen wanneer klaar: wanneer de request voltooid is en het parsen gebeurd is, dient deze klasse dit aan te geven. Schrijf zelf een delegate protocol om zo aan te geven dat de resultaten beschikbaar zijn.
 6. Voeg een `UITableViewController` toe aan het storyboard, schrijf je eigen subklasse hiervoor en connectere deze.
 7. Geef in deze `UITableViewController` de resultaten van de request weer.
+8. Breid jouw model uit en voeg een relatie toe. Bijvoorbeeld: je bouwt een app om hotels te bekijken, voeg reviews toe per hotel.
+  - Maak de nodige aanpassingen aan jouw `.json` file.
+  - Maak de nodige modellen aan.
+  - Breid de functionaliteit van jouw subklasse van `AFHTTPSessionManager` uit om dit te download, te parsen, etc.
+9. Zorg ervoor dat je in de app nieuwe elementen van jouw model kan toevoegen.
+  - Je zult dus ook gebruik moeten maken van de juiste web service om deze aanpassing door te voeren naar jouw database.
+10. Zorg ervoor dat je in de app bestaande elementen van jouw model kan aanpassen.
+  - Je zult dus ook gebruik moeten maken van de juiste web service om deze aanpassing door te voeren naar jouw database.
