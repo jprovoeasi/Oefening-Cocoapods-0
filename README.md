@@ -1,4 +1,7 @@
 # Oefening-Cocoapods-0
+
+In deze oefening maak je gebruik van **Cocoapods**, **AFNetworking** en **Grand Central Dispatch**.
+
 ## Tips
 1. Zorg ervoor dat je lokale server runt:
   - Open de `Terminal` applicatie.
