@@ -39,3 +39,6 @@ In deze oefening maak je gebruik van **Cocoapods**, **AFNetworking** en **Grand 
   - Je zult dus ook gebruik moeten maken van de juiste web service om deze aanpassing door te voeren naar jouw database.
 10. Zorg ervoor dat je in de app bestaande elementen van jouw model kan aanpassen.
   - Je zult dus ook gebruik moeten maken van de juiste web service om deze aanpassing door te voeren naar jouw database.
+
+## Oplossing
+De oplossingen vind je terug onder de repository **Demo-Cocoapods**.
